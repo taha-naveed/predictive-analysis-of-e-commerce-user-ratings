@@ -1,15 +1,14 @@
-# Analysis of an E-commerce Dataset Part 2 - README
+# Analysis of an E-commerce Dataset - README
 
-**Student Name:** Taha Naveed Shibli  
-**Student ID:** 47892641
+**Name:** Taha Naveed Shibli  
 
 ## Introduction
 
-This README provides an overview of the second part of the "Analysis of an E-commerce Dataset." In this analysis, we focused on training linear regression models to predict user ratings based on various features within the dataset. The primary objectives of this assignment were to explore the dataset, examine the impact of feature selection, and assess how different proportions of training and testing data affect model performance.
+This README provides an overview of the "Analysis of an E-commerce Dataset." In this analysis, I focused on training linear regression models to predict user ratings based on various features within the dataset. The primary objectives of this assignment were to explore the dataset, examine the impact of feature selection, and assess how different proportions of training and testing data affect model performance.
 
 ## Dataset Import
 
-The analysis begins with the import of the e-commerce dataset from the 'cleaned_ecommerce_dataset.csv' file. This step is essential for all subsequent tasks. 
+The analysis begins with the import of the e-commerce dataset from the 'ecommerce_dataset.csv' file. This step is essential for all subsequent tasks. 
 
 ## Dataset Exploration
 
@@ -139,4 +138,4 @@ In conclusion, this analysis demonstrates the importance of feature selection, c
 
 4. **Causation vs. Correlation:** The analysis underscores the need to understand that correlation does not imply causation. Even highly correlated features may not necessarily be causal factors in rating predictions. Additional domain knowledge may be required to make more informed decisions.
 
-Overall, the portfolio task successfully achieved the stated tasks, providing valuable insights into the importance of feature selection and data splitting in the context of rating prediction in e-commerce datasets. It also emphasizes the need for data scientists to carefully analyze and evaluate their models to draw meaningful conclusions and make informed decisions.
+Overall, the task successfully achieved the stated tasks, providing valuable insights into the importance of feature selection and data splitting in the context of rating prediction in e-commerce datasets. It also emphasizes the need for data scientists to carefully analyze and evaluate their models to draw meaningful conclusions and make informed decisions.
